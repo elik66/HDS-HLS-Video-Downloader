@@ -1,6 +1,8 @@
 # HDS-HLS-Video-Downloader
 ### HDS / HLS Video Downloader will download fragmented videos to your computer.
-## Last update : March 7, 2020 . version 8.18
+## Last update : March 28, 2020 . version 8.19
+1. Keep everything working 
+### March 7, 2020 . version 8.18
 1. Fixed download part issues.
 2. Multi-threaded **smart** download.
 3. m3u8 , f4m downloader
